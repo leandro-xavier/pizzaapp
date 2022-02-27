@@ -1,0 +1,27 @@
+.h1 {
+    text-align: center;
+}
+
+.h3 {
+    text-align: center;
+    margin-top: 80px;
+}
+
+.boton {
+    margin-top: 40px;
+    margin-left: 650px;
+}
+
+@media (max-width: 600px) {
+    .h1 {
+        text-align: center;
+    }
+    .h3 {
+        text-align: center;
+        margin-top: 80px;
+    }
+    .boton {
+        margin-top: 40px;
+        margin-left: 140px;
+    }
+}

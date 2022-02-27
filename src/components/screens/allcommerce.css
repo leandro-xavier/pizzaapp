@@ -1,0 +1,27 @@
+.h3 {
+    text-align: center;
+}
+
+.h5 {
+    text-align: center;
+}
+
+.formStyle {
+    align-items: center;
+    border-radius: 50px;
+    width: 350px;
+}
+
+@media (max-width: 600px) {
+    .h3 {
+        text-align: center;
+    }
+    .h5 {
+        text-align: center;
+    }
+    .formStyle {
+        border-radius: 50px;
+        margin: auto;
+        margin-top: 20px;
+    }
+}
